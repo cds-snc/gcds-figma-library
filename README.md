@@ -1,10 +1,15 @@
-# Generic Project Template
+# GC Design System Figma library
 
-This repository provides some base files for setting up a repository at
-CDS. Plan is to create more project template for specific technologies:
+This repository manages the release notes for the Figma library of GC Design System.
 
-- project-template-terraform
-- project-template-python
-- project-template-nodejs
+- [English Figma library](https://www.figma.com/community/file/1128687821123298228)
+- [French Figma library](https://www.figma.com/community/file/1369337721343886324/systeme-de-design-gc)
+- [Website documentation](https://design-system.canada.ca/)
 
-Note that default community health files are maintained at https://github.com/cds-snc/.github 
+---
+# Bibliothèque Figma de Système de design GC
+
+Ce référentiel contient les notes de version de la bibliothèque Figma de Système de design GC.
+- [Bibliothèque Figma française](https://www.figma.com/community/file/1369337721343886324/systeme-de-design-gc)
+- [Bibliothèque Figma anglaise](https://www.figma.com/community/file/1128687821123298228)
+- [Site Web de documentation](https://design-system.canada.ca/)
